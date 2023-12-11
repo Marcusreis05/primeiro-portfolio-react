@@ -1,0 +1,19 @@
+.skill{
+    border-radius: 20px;
+    background: rgba(1, 9, 28, 0.75);
+    margin: 150px;
+    padding: 15px;
+    font-size: 180%;
+    filter: drop-shadow(0px 10px 10px rgba(0,0, 0.25, 0.25));
+}
+
+.skill img{
+    width: 150px;
+    margin: 50px 25px 25px 25px;
+    filter: drop-shadow(0px 4px 4px rgba(0,0, 0.25, 0.25));
+}
+
+.skill img:hover{
+    outline: 2px white solid;
+    border-radius: 20px;
+}

@@ -1,0 +1,22 @@
+.buttonA button{
+    background-color: #74FAC0;
+    border: none;
+    border-radius: 10px;
+    padding: 18px;
+    margin: 15px 15px 15px 0px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.buttonA button:hover{
+    background-color:#a1ffd6;
+    box-shadow: 5px 5px 20px rgb(37, 41, 71);
+}
+
+
+
+
+
+
