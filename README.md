@@ -12,8 +12,6 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
 :small_blue_diamond: [Deploy da Aplicação](https://portifolio-react-ten-swart.vercel.app)
 
 ## Descrição do projeto 
